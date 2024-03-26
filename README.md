@@ -1,6 +1,5 @@
 ### Hi am Celia👋
-
-<a   <a href="https://www.linkedin.com/in/celia-toribio-372b63153/" target="_blank">
+<a href="https://www.linkedin.com/in/celia-toribio-372b63153/" target="_blank">
     <button>linkedIn Celia</button>
 </a>
 
