@@ -1,12 +1,9 @@
 ### Hi am Celia👋
-<div>
-  <a href="https://www.linkedin.com/in/celia-toribio-372b63153/"
-    ><img
-      width="45%"
-      alt="linkedIn Celia "
-/></a>
 
-</div>
+<a   <a href="https://www.linkedin.com/in/celia-toribio-372b63153/" target="_blank">
+    <button>linkedIn Celia</button>
+</a>
+
 <!--
 **celiatj/celiatj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
